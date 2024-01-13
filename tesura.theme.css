@@ -1,0 +1,29 @@
+:root {
+  --var-background: linear-gradient(
+    138deg,
+    rgba(162, 247, 220, 1) 0%,
+    rgba(18, 145, 187, 1) 80%,
+    rgba(35, 108, 179, 1) 100%
+  );
+  --var-accent: #1e1b38;
+  --var-black1: rgb(0 0 0 / 55%);
+  --var-black2: rgb(0 0 0 / 65%);
+  --var-notification: #b00020;
+  --var-popout-color: rgb(19, 30, 84);
+  --var-hover20: rgb(181 181 181 / 20%);
+  --var-hover22: rgb(181 181 181 / 22%);
+  --var-hover25: rgb(181 181 181 / 25%);
+  --var-hover30: rgb(181 181 181 / 30%);
+  --var-hover50: rgb(181 181 181 / 50%);
+  --var-hover80: rgb(181 181 181 / 80%);
+  --var-hover100: rgb(181 181 181 / 100%);
+  --home-image: url("https://i.imgur.com/mWV9S97.jpg");
+}
+
+.info__755e1:after {
+  content: "SlimeCord";
+  position: relative;
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--text-muted);
+}
